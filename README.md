@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `JUPUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `34` months
-- **Total Candles:** `1,436,160` 1-minute candles
-- **Historical Range:** `2024-01-31 16:00:00` to `2026-10-24 23:59:00` (UTC)
+- **Total Months:** `35` months
+- **Total Candles:** `1,456,320` 1-minute candles
+- **Historical Range:** `2024-01-31 16:00:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
